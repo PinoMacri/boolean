@@ -1,0 +1,74 @@
+html body {
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#uno {
+    background-color: rgba(0%, 0%, 0%, 0.4);
+    margin: 30px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 90px;
+    border-radius: 20px;
+}
+
+#uno header {
+    text-align: center;
+
+
+}
+
+#uno header img {
+    width: 25%;
+   
+    
+
+}
+
+#uno header h1 {
+    color: #00DD00;
+
+}
+
+#due nav {
+    text-align: center;
+    background-color: #00DD00;
+    padding: 10px;
+}
+
+main {
+    line-height: 0.4;
+}
+
+
+#due main h2 {
+    color: white;
+}
+
+#due main p {
+    color: white;
+}
+
+#tre {
+    width: 26%;
+    height: 30px;
+    background-color: rgb(233, 174, 66);
+    border-radius: 7px;
+}
+
+#quattro {
+    width: 57%;
+    height: 30px;
+    background-color: rgb(33, 182, 33);
+    border-radius: 7px;
+  
+}
+
+#cinque {
+    width: 15%;
+    height: 30px;
+    background-color: rgb(231, 62, 62);
+    border-radius: 7px;
+}
